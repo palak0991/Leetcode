@@ -9,12 +9,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/palak0991/Leetcode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/palak0991/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/palak0991/Leetcode/tree/master/0027-remove-element) |
+| [0169-majority-element](https://github.com/palak0991/Leetcode/tree/master/0169-majority-element) |
 | [1791-richest-customer-wealth](https://github.com/palak0991/Leetcode/tree/master/1791-richest-customer-wealth) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/palak0991/Leetcode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/palak0991/Leetcode/tree/master/0013-roman-to-integer) |
+| [0169-majority-element](https://github.com/palak0991/Leetcode/tree/master/0169-majority-element) |
 ## Math
 |  |
 | ------- |
@@ -38,4 +40,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1791-richest-customer-wealth](https://github.com/palak0991/Leetcode/tree/master/1791-richest-customer-wealth) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/palak0991/Leetcode/tree/master/0169-majority-element) |
+## Sorting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/palak0991/Leetcode/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/palak0991/Leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
