@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/palak0991/Leetcode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/palak0991/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/palak0991/Leetcode/tree/master/0027-remove-element) |
+| [0035-search-insert-position](https://github.com/palak0991/Leetcode/tree/master/0035-search-insert-position) |
 | [0169-majority-element](https://github.com/palak0991/Leetcode/tree/master/0169-majority-element) |
 | [1791-richest-customer-wealth](https://github.com/palak0991/Leetcode/tree/master/1791-richest-customer-wealth) |
 ## Hash Table
@@ -52,4 +53,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/palak0991/Leetcode/tree/master/0169-majority-element) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/palak0991/Leetcode/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
