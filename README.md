@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0852-peak-index-in-a-mountain-array](https://github.com/palak0991/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1603-running-sum-of-1d-array](https://github.com/palak0991/Leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [1791-richest-customer-wealth](https://github.com/palak0991/Leetcode/tree/master/1791-richest-customer-wealth) |
+| [1920-build-array-from-permutation](https://github.com/palak0991/Leetcode/tree/master/1920-build-array-from-permutation) |
 ## Hash Table
 |  |
 | ------- |
@@ -72,4 +73,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0724-find-pivot-index](https://github.com/palak0991/Leetcode/tree/master/0724-find-pivot-index) |
 | [1603-running-sum-of-1d-array](https://github.com/palak0991/Leetcode/tree/master/1603-running-sum-of-1d-array) |
+## Simulation
+|  |
+| ------- |
+| [1920-build-array-from-permutation](https://github.com/palak0991/Leetcode/tree/master/1920-build-array-from-permutation) |
 <!---LeetCode Topics End-->
