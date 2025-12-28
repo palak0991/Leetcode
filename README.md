@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0035-search-insert-position](https://github.com/palak0991/Leetcode/tree/master/0035-search-insert-position) |
 | [0169-majority-element](https://github.com/palak0991/Leetcode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/palak0991/Leetcode/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/palak0991/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0724-find-pivot-index](https://github.com/palak0991/Leetcode/tree/master/0724-find-pivot-index) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/palak0991/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/palak0991/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -47,6 +48,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/palak0991/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/palak0991/Leetcode/tree/master/0027-remove-element) |
+| [0287-find-the-duplicate-number](https://github.com/palak0991/Leetcode/tree/master/0287-find-the-duplicate-number) |
 ## Matrix
 |  |
 | ------- |
@@ -71,6 +73,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/palak0991/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/palak0991/Leetcode/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/palak0991/Leetcode/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/palak0991/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/palak0991/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/palak0991/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Prefix Sum
@@ -86,4 +89,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/palak0991/Leetcode/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/palak0991/Leetcode/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
