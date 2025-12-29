@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0033-search-in-rotated-sorted-array](https://github.com/palak0991/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/palak0991/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/palak0991/Leetcode/tree/master/0035-search-insert-position) |
+| [0041-first-missing-positive](https://github.com/palak0991/Leetcode/tree/master/0041-first-missing-positive) |
 | [0169-majority-element](https://github.com/palak0991/Leetcode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/palak0991/Leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/palak0991/Leetcode/tree/master/0287-find-the-duplicate-number) |
@@ -27,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0001-two-sum](https://github.com/palak0991/Leetcode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/palak0991/Leetcode/tree/master/0013-roman-to-integer) |
+| [0041-first-missing-positive](https://github.com/palak0991/Leetcode/tree/master/0041-first-missing-positive) |
 | [0169-majority-element](https://github.com/palak0991/Leetcode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/palak0991/Leetcode/tree/master/0268-missing-number) |
 | [0645-set-mismatch](https://github.com/palak0991/Leetcode/tree/master/0645-set-mismatch) |
