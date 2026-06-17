@@ -104,10 +104,15 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Linked List
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/palak0991/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/palak0991/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/palak0991/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/palak0991/Leetcode/tree/master/0392-is-subsequence) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/palak0991/Leetcode/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
