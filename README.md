@@ -40,6 +40,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/palak0991/Leetcode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/palak0991/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/palak0991/Leetcode/tree/master/0268-missing-number) |
+| [0383-ransom-note](https://github.com/palak0991/Leetcode/tree/master/0383-ransom-note) |
 | [0645-set-mismatch](https://github.com/palak0991/Leetcode/tree/master/0645-set-mismatch) |
 ## Math
 |  |
@@ -54,6 +55,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0014-longest-common-prefix](https://github.com/palak0991/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0151-reverse-words-in-a-string](https://github.com/palak0991/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/palak0991/Leetcode/tree/master/0242-valid-anagram) |
+| [0383-ransom-note](https://github.com/palak0991/Leetcode/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/palak0991/Leetcode/tree/master/0392-is-subsequence) |
 | [1021-remove-outermost-parentheses](https://github.com/palak0991/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1108-defanging-an-ip-address](https://github.com/palak0991/Leetcode/tree/master/1108-defanging-an-ip-address) |
@@ -96,6 +98,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/palak0991/Leetcode/tree/master/0169-majority-element) |
+| [0383-ransom-note](https://github.com/palak0991/Leetcode/tree/master/0383-ransom-note) |
 ## Binary Search
 |  |
 | ------- |
