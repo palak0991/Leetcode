@@ -44,6 +44,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0141-linked-list-cycle](https://github.com/palak0991/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/palak0991/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/palak0991/Leetcode/tree/master/0169-majority-element) |
+| [0205-isomorphic-strings](https://github.com/palak0991/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/palak0991/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/palak0991/Leetcode/tree/master/0268-missing-number) |
 | [0383-ransom-note](https://github.com/palak0991/Leetcode/tree/master/0383-ransom-note) |
@@ -62,6 +63,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0013-roman-to-integer](https://github.com/palak0991/Leetcode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/palak0991/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0151-reverse-words-in-a-string](https://github.com/palak0991/Leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0205-isomorphic-strings](https://github.com/palak0991/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/palak0991/Leetcode/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/palak0991/Leetcode/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/palak0991/Leetcode/tree/master/0392-is-subsequence) |
