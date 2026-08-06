@@ -67,6 +67,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0242-valid-anagram](https://github.com/palak0991/Leetcode/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/palak0991/Leetcode/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/palak0991/Leetcode/tree/master/0392-is-subsequence) |
+| [0796-rotate-string](https://github.com/palak0991/Leetcode/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/palak0991/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1108-defanging-an-ip-address](https://github.com/palak0991/Leetcode/tree/master/1108-defanging-an-ip-address) |
 | [1903-largest-odd-number-in-string](https://github.com/palak0991/Leetcode/tree/master/1903-largest-odd-number-in-string) |
@@ -177,4 +178,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/palak0991/Leetcode/tree/master/0142-linked-list-cycle-ii) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/palak0991/Leetcode/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
