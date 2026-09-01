@@ -32,6 +32,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0724-find-pivot-index](https://github.com/palak0991/Leetcode/tree/master/0724-find-pivot-index) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/palak0991/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/palak0991/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1389-create-target-array-in-the-given-order](https://github.com/palak0991/Leetcode/tree/master/1389-create-target-array-in-the-given-order) |
 | [1603-running-sum-of-1d-array](https://github.com/palak0991/Leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [1791-richest-customer-wealth](https://github.com/palak0991/Leetcode/tree/master/1791-richest-customer-wealth) |
 | [1920-build-array-from-permutation](https://github.com/palak0991/Leetcode/tree/master/1920-build-array-from-permutation) |
@@ -138,6 +139,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 |  |
 | ------- |
+| [1389-create-target-array-in-the-given-order](https://github.com/palak0991/Leetcode/tree/master/1389-create-target-array-in-the-given-order) |
 | [1920-build-array-from-permutation](https://github.com/palak0991/Leetcode/tree/master/1920-build-array-from-permutation) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/palak0991/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Bit Manipulation
