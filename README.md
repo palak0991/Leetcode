@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0041-first-missing-positive](https://github.com/palak0991/Leetcode/tree/master/0041-first-missing-positive) |
 | [0048-rotate-image](https://github.com/palak0991/Leetcode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/palak0991/Leetcode/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/palak0991/Leetcode/tree/master/0055-jump-game) |
 | [0073-set-matrix-zeroes](https://github.com/palak0991/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/palak0991/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/palak0991/Leetcode/tree/master/0088-merge-sorted-array) |
@@ -169,6 +170,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/palak0991/Leetcode/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/palak0991/Leetcode/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/palak0991/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/palak0991/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/palak0991/Leetcode/tree/master/0152-maximum-product-subarray) |
@@ -191,6 +193,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/palak0991/Leetcode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/palak0991/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0435-non-overlapping-intervals](https://github.com/palak0991/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/palak0991/Leetcode/tree/master/0455-assign-cookies) |
