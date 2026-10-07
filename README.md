@@ -63,6 +63,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/palak0991/Leetcode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/palak0991/Leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/palak0991/Leetcode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/palak0991/Leetcode/tree/master/0013-roman-to-integer) |
@@ -174,6 +175,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/palak0991/Leetcode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/palak0991/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/palak0991/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/palak0991/Leetcode/tree/master/0142-linked-list-cycle-ii) |
@@ -196,6 +198,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/palak0991/Leetcode/tree/master/0002-add-two-numbers) |
 | [0010-regular-expression-matching](https://github.com/palak0991/Leetcode/tree/master/0010-regular-expression-matching) |
 | [0021-merge-two-sorted-lists](https://github.com/palak0991/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/palak0991/Leetcode/tree/master/0050-powx-n) |
