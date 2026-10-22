@@ -79,6 +79,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0009-palindrome-number](https://github.com/palak0991/Leetcode/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/palak0991/Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/palak0991/Leetcode/tree/master/0013-roman-to-integer) |
+| [0043-multiply-strings](https://github.com/palak0991/Leetcode/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/palak0991/Leetcode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/palak0991/Leetcode/tree/master/0050-powx-n) |
 | [0268-missing-number](https://github.com/palak0991/Leetcode/tree/master/0268-missing-number) |
@@ -101,6 +102,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/palak0991/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/palak0991/Leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0032-longest-valid-parentheses](https://github.com/palak0991/Leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0043-multiply-strings](https://github.com/palak0991/Leetcode/tree/master/0043-multiply-strings) |
 | [0151-reverse-words-in-a-string](https://github.com/palak0991/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/palak0991/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/palak0991/Leetcode/tree/master/0242-valid-anagram) |
@@ -192,6 +194,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/palak0991/Leetcode/tree/master/0043-multiply-strings) |
 | [1389-create-target-array-in-the-given-order](https://github.com/palak0991/Leetcode/tree/master/1389-create-target-array-in-the-given-order) |
 | [1920-build-array-from-permutation](https://github.com/palak0991/Leetcode/tree/master/1920-build-array-from-permutation) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/palak0991/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
