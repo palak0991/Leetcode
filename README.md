@@ -103,6 +103,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0030-substring-with-concatenation-of-all-words](https://github.com/palak0991/Leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0032-longest-valid-parentheses](https://github.com/palak0991/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0043-multiply-strings](https://github.com/palak0991/Leetcode/tree/master/0043-multiply-strings) |
+| [0044-wildcard-matching](https://github.com/palak0991/Leetcode/tree/master/0044-wildcard-matching) |
 | [0151-reverse-words-in-a-string](https://github.com/palak0991/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/palak0991/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/palak0991/Leetcode/tree/master/0242-valid-anagram) |
@@ -226,6 +227,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0022-generate-parentheses](https://github.com/palak0991/Leetcode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/palak0991/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/palak0991/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0044-wildcard-matching](https://github.com/palak0991/Leetcode/tree/master/0044-wildcard-matching) |
 | [0053-maximum-subarray](https://github.com/palak0991/Leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/palak0991/Leetcode/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/palak0991/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -242,6 +244,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0021-merge-two-sorted-lists](https://github.com/palak0991/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/palak0991/Leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/palak0991/Leetcode/tree/master/0025-reverse-nodes-in-k-group) |
+| [0044-wildcard-matching](https://github.com/palak0991/Leetcode/tree/master/0044-wildcard-matching) |
 | [0050-powx-n](https://github.com/palak0991/Leetcode/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/palak0991/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/palak0991/Leetcode/tree/master/0234-palindrome-linked-list) |
@@ -260,6 +263,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/palak0991/Leetcode/tree/master/0011-container-with-most-water) |
+| [0044-wildcard-matching](https://github.com/palak0991/Leetcode/tree/master/0044-wildcard-matching) |
 | [0055-jump-game](https://github.com/palak0991/Leetcode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/palak0991/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0435-non-overlapping-intervals](https://github.com/palak0991/Leetcode/tree/master/0435-non-overlapping-intervals) |
