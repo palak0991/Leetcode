@@ -35,6 +35,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0055-jump-game](https://github.com/palak0991/Leetcode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/palak0991/Leetcode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/palak0991/Leetcode/tree/master/0057-insert-interval) |
+| [0059-spiral-matrix-ii](https://github.com/palak0991/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/palak0991/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/palak0991/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/palak0991/Leetcode/tree/master/0088-merge-sorted-array) |
@@ -159,6 +160,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0037-sudoku-solver](https://github.com/palak0991/Leetcode/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/palak0991/Leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/palak0991/Leetcode/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/palak0991/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/palak0991/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [1791-richest-customer-wealth](https://github.com/palak0991/Leetcode/tree/master/1791-richest-customer-wealth) |
 ## Divide and Conquer
@@ -212,6 +214,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0043-multiply-strings](https://github.com/palak0991/Leetcode/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/palak0991/Leetcode/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/palak0991/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [1389-create-target-array-in-the-given-order](https://github.com/palak0991/Leetcode/tree/master/1389-create-target-array-in-the-given-order) |
 | [1920-build-array-from-permutation](https://github.com/palak0991/Leetcode/tree/master/1920-build-array-from-permutation) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/palak0991/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
