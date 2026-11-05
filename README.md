@@ -36,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0056-merge-intervals](https://github.com/palak0991/Leetcode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/palak0991/Leetcode/tree/master/0057-insert-interval) |
 | [0059-spiral-matrix-ii](https://github.com/palak0991/Leetcode/tree/master/0059-spiral-matrix-ii) |
+| [0063-unique-paths-ii](https://github.com/palak0991/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0073-set-matrix-zeroes](https://github.com/palak0991/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/palak0991/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/palak0991/Leetcode/tree/master/0088-merge-sorted-array) |
@@ -164,6 +165,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0048-rotate-image](https://github.com/palak0991/Leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/palak0991/Leetcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/palak0991/Leetcode/tree/master/0059-spiral-matrix-ii) |
+| [0063-unique-paths-ii](https://github.com/palak0991/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0073-set-matrix-zeroes](https://github.com/palak0991/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [1791-richest-customer-wealth](https://github.com/palak0991/Leetcode/tree/master/1791-richest-customer-wealth) |
 ## Divide and Conquer
@@ -255,6 +257,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0053-maximum-subarray](https://github.com/palak0991/Leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/palak0991/Leetcode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/palak0991/Leetcode/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/palak0991/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/palak0991/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/palak0991/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/palak0991/Leetcode/tree/master/0152-maximum-product-subarray) |
