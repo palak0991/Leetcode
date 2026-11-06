@@ -38,6 +38,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0059-spiral-matrix-ii](https://github.com/palak0991/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/palak0991/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/palak0991/Leetcode/tree/master/0064-minimum-path-sum) |
+| [0066-plus-one](https://github.com/palak0991/Leetcode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/palak0991/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/palak0991/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/palak0991/Leetcode/tree/master/0088-merge-sorted-array) |
@@ -96,6 +97,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0050-powx-n](https://github.com/palak0991/Leetcode/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/palak0991/Leetcode/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/palak0991/Leetcode/tree/master/0062-unique-paths) |
+| [0066-plus-one](https://github.com/palak0991/Leetcode/tree/master/0066-plus-one) |
 | [0268-missing-number](https://github.com/palak0991/Leetcode/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/palak0991/Leetcode/tree/master/0509-fibonacci-number) |
 | [1903-largest-odd-number-in-string](https://github.com/palak0991/Leetcode/tree/master/1903-largest-odd-number-in-string) |
