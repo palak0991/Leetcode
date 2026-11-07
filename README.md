@@ -99,6 +99,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0060-permutation-sequence](https://github.com/palak0991/Leetcode/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/palak0991/Leetcode/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/palak0991/Leetcode/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/palak0991/Leetcode/tree/master/0067-add-binary) |
 | [0268-missing-number](https://github.com/palak0991/Leetcode/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/palak0991/Leetcode/tree/master/0509-fibonacci-number) |
 | [1903-largest-odd-number-in-string](https://github.com/palak0991/Leetcode/tree/master/1903-largest-odd-number-in-string) |
@@ -124,6 +125,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0049-group-anagrams](https://github.com/palak0991/Leetcode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/palak0991/Leetcode/tree/master/0058-length-of-last-word) |
 | [0065-valid-number](https://github.com/palak0991/Leetcode/tree/master/0065-valid-number) |
+| [0067-add-binary](https://github.com/palak0991/Leetcode/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/palak0991/Leetcode/tree/master/0068-text-justification) |
 | [0151-reverse-words-in-a-string](https://github.com/palak0991/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/palak0991/Leetcode/tree/master/0205-isomorphic-strings) |
@@ -227,6 +229,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0043-multiply-strings](https://github.com/palak0991/Leetcode/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/palak0991/Leetcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/palak0991/Leetcode/tree/master/0059-spiral-matrix-ii) |
+| [0067-add-binary](https://github.com/palak0991/Leetcode/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/palak0991/Leetcode/tree/master/0068-text-justification) |
 | [1389-create-target-array-in-the-given-order](https://github.com/palak0991/Leetcode/tree/master/1389-create-target-array-in-the-given-order) |
 | [1920-build-array-from-permutation](https://github.com/palak0991/Leetcode/tree/master/1920-build-array-from-permutation) |
@@ -234,6 +237,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/palak0991/Leetcode/tree/master/0067-add-binary) |
 | [0268-missing-number](https://github.com/palak0991/Leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/palak0991/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0645-set-mismatch](https://github.com/palak0991/Leetcode/tree/master/0645-set-mismatch) |
