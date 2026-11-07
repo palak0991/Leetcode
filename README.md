@@ -39,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0063-unique-paths-ii](https://github.com/palak0991/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/palak0991/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/palak0991/Leetcode/tree/master/0066-plus-one) |
+| [0068-text-justification](https://github.com/palak0991/Leetcode/tree/master/0068-text-justification) |
 | [0073-set-matrix-zeroes](https://github.com/palak0991/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/palak0991/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/palak0991/Leetcode/tree/master/0088-merge-sorted-array) |
@@ -123,6 +124,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0049-group-anagrams](https://github.com/palak0991/Leetcode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/palak0991/Leetcode/tree/master/0058-length-of-last-word) |
 | [0065-valid-number](https://github.com/palak0991/Leetcode/tree/master/0065-valid-number) |
+| [0068-text-justification](https://github.com/palak0991/Leetcode/tree/master/0068-text-justification) |
 | [0151-reverse-words-in-a-string](https://github.com/palak0991/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/palak0991/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/palak0991/Leetcode/tree/master/0242-valid-anagram) |
@@ -225,6 +227,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0043-multiply-strings](https://github.com/palak0991/Leetcode/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/palak0991/Leetcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/palak0991/Leetcode/tree/master/0059-spiral-matrix-ii) |
+| [0068-text-justification](https://github.com/palak0991/Leetcode/tree/master/0068-text-justification) |
 | [1389-create-target-array-in-the-given-order](https://github.com/palak0991/Leetcode/tree/master/1389-create-target-array-in-the-given-order) |
 | [1920-build-array-from-permutation](https://github.com/palak0991/Leetcode/tree/master/1920-build-array-from-permutation) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/palak0991/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
