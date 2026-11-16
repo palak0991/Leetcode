@@ -43,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0073-set-matrix-zeroes](https://github.com/palak0991/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/palak0991/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/palak0991/Leetcode/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/palak0991/Leetcode/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/palak0991/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/palak0991/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/palak0991/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -248,6 +249,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/palak0991/Leetcode/tree/master/0067-add-binary) |
+| [0078-subsets](https://github.com/palak0991/Leetcode/tree/master/0078-subsets) |
 | [0268-missing-number](https://github.com/palak0991/Leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/palak0991/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0645-set-mismatch](https://github.com/palak0991/Leetcode/tree/master/0645-set-mismatch) |
@@ -441,6 +443,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0051-n-queens](https://github.com/palak0991/Leetcode/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/palak0991/Leetcode/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/palak0991/Leetcode/tree/master/0077-combinations) |
+| [0078-subsets](https://github.com/palak0991/Leetcode/tree/master/0078-subsets) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
