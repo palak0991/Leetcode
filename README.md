@@ -44,6 +44,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0074-search-a-2d-matrix](https://github.com/palak0991/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/palak0991/Leetcode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/palak0991/Leetcode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/palak0991/Leetcode/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/palak0991/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/palak0991/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/palak0991/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -135,6 +136,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0071-simplify-path](https://github.com/palak0991/Leetcode/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/palak0991/Leetcode/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/palak0991/Leetcode/tree/master/0076-minimum-window-substring) |
+| [0079-word-search](https://github.com/palak0991/Leetcode/tree/master/0079-word-search) |
 | [0151-reverse-words-in-a-string](https://github.com/palak0991/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/palak0991/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/palak0991/Leetcode/tree/master/0242-valid-anagram) |
@@ -185,6 +187,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0064-minimum-path-sum](https://github.com/palak0991/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/palak0991/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/palak0991/Leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/palak0991/Leetcode/tree/master/0079-word-search) |
 | [1791-richest-customer-wealth](https://github.com/palak0991/Leetcode/tree/master/1791-richest-customer-wealth) |
 ## Divide and Conquer
 |  |
@@ -393,6 +396,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/palak0991/Leetcode/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/palak0991/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/palak0991/Leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/palak0991/Leetcode/tree/master/0101-symmetric-tree) |
@@ -444,6 +448,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0052-n-queens-ii](https://github.com/palak0991/Leetcode/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/palak0991/Leetcode/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/palak0991/Leetcode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/palak0991/Leetcode/tree/master/0079-word-search) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
