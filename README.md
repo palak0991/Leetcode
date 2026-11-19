@@ -68,6 +68,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1791-richest-customer-wealth](https://github.com/palak0991/Leetcode/tree/master/1791-richest-customer-wealth) |
 | [1920-build-array-from-permutation](https://github.com/palak0991/Leetcode/tree/master/1920-build-array-from-permutation) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/palak0991/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/palak0991/Leetcode/tree/master/2567-minimum-score-by-changing-two-elements) |
 ## Hash Table
 |  |
 | ------- |
@@ -219,6 +220,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0442-find-all-duplicates-in-an-array](https://github.com/palak0991/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0455-assign-cookies](https://github.com/palak0991/Leetcode/tree/master/0455-assign-cookies) |
 | [0645-set-mismatch](https://github.com/palak0991/Leetcode/tree/master/0645-set-mismatch) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/palak0991/Leetcode/tree/master/2567-minimum-score-by-changing-two-elements) |
 ## Counting
 |  |
 | ------- |
@@ -338,6 +340,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0455-assign-cookies](https://github.com/palak0991/Leetcode/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/palak0991/Leetcode/tree/master/0860-lemonade-change) |
 | [1903-largest-odd-number-in-string](https://github.com/palak0991/Leetcode/tree/master/1903-largest-odd-number-in-string) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/palak0991/Leetcode/tree/master/2567-minimum-score-by-changing-two-elements) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
